@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "YILYzkGRXFQ5H3kcjaOqDiK47eDPpXAU9UT92yzsI4UQPf6lbZv77SVOBbZ1kUeltPOTntOQzHrYicOl67lm8g==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\Auto\\AutoDrivingCarSimulation\\src\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashok_govindaraj\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://203.127.254.70/api/v4/projects/71/packages/nuget/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
